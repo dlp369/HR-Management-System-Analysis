@@ -40,5 +40,3 @@ dashboard image will come here
 
 - There are more male employees than female.
 - The white race is most dominant while the Native Hawaiian American Indian are the least dominant.
-
-- 
