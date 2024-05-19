@@ -1,6 +1,7 @@
 # HR Dashbord
 
-dashboard image will come here
+![screenshot1](https://github.com/dlp369/HR-Management-System-Analysis/blob/main/1.png)
+![screenshot2](https://github.com/dlp369/HR-Management-System-Analysis/blob/main/2.png)
 
 ## Data Used
 **Data** - HR Data with over 19000 rows from the year 2000 to 2022 with the information about Employee ID, First Name, Last Name, Birthdate, Gender, Race/Ethnicity, Department, Job Title, Location, Hire Date, Termination Date, Location City, Location State, Age.
