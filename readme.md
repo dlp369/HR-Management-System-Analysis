@@ -2,6 +2,17 @@
 
 ![screenshot1](https://github.com/dlp369/HR-Management-System-Analysis/blob/main/1.png)
 ![screenshot2](https://github.com/dlp369/HR-Management-System-Analysis/blob/main/2.png)
+![screenshot3](https://github.com/dlp369/HR-Management-System-Analysis/blob/main/3.png)
+![screenshot4](https://github.com/dlp369/HR-Management-System-Analysis/blob/main/4.png)
+![screenshot5](https://github.com/dlp369/HR-Management-System-Analysis/blob/main/5.png)
+![screenshot6](https://github.com/dlp369/HR-Management-System-Analysis/blob/main/6.png)
+![screenshot7](https://github.com/dlp369/HR-Management-System-Analysis/blob/main/7.png)
+![screenshot8](https://github.com/dlp369/HR-Management-System-Analysis/blob/main/8.png)
+![screenshot9](https://github.com/dlp369/HR-Management-System-Analysis/blob/main/9.png)
+![screenshot10](https://github.com/dlp369/HR-Management-System-Analysis/blob/main/10.png)
+![screenshot11](https://github.com/dlp369/HR-Management-System-Analysis/blob/main/11.png)
+![screenshot12](https://github.com/dlp369/HR-Management-System-Analysis/blob/main/12.png)
+
 
 ## Data Used
 **Data** - HR Data with over 19000 rows from the year 2000 to 2022 with the information about Employee ID, First Name, Last Name, Birthdate, Gender, Race/Ethnicity, Department, Job Title, Location, Hire Date, Termination Date, Location City, Location State, Age.
